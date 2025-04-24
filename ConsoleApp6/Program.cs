@@ -24,3 +24,25 @@ else
 {
     Console.WriteLine("Eded ne 7e ne 3e bolunur");
 }
+
+
+int a = 20;
+
+
+if (a > 15 && a < 10)
+{
+    Console.WriteLine("10dan boyuk 15den kicik");
+
+}
+else
+{
+
+    Console.WriteLine("Bu araliqda deyil");
+
+}
+    
+
+
+
+
+
